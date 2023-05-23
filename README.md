@@ -40,7 +40,11 @@ Push  - его использует самая популярная систем
 
 ### Ответ
 
+![Скрин](https://github.com/Jlljully/Virt_2/blob/main/Screenshot_1.png "1")
 
+![Скрин](https://github.com/Jlljully/Virt_2/blob/main/Screenshot_2.png "2")
+
+![Скрин](https://github.com/Jlljully/Virt_2/blob/main/Screenshot_3.png "3")
 
 ## Задача 4 
 
