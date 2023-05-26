@@ -72,4 +72,6 @@ Error: The requested URL returned error: 404:
 
 ### Ответ
 
+![Скрин](https://github.com/Jlljully/Virt_2/blob/main/Screenshot_4.png "4")  
 
+![Скрин](https://github.com/Jlljully/Virt_2/blob/main/Screenshot_5.png "5")  
