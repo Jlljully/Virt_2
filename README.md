@@ -75,3 +75,7 @@ Error: The requested URL returned error: 404:
 ![Скрин](https://github.com/Jlljully/Virt_2/blob/main/Screenshot_4.png "4")  
 
 ![Скрин](https://github.com/Jlljully/Virt_2/blob/main/Screenshot_5.png "5")  
+
+Вторую часть пришлось выполнять на виртуалбоксе на убунте, поднятой на виртуалбоксе на виндоус из-за неработающего на виндоус ансибла:  
+
+![Скрин](https://github.com/Jlljully/Virt_2/blob/main/Screenshot_7.png "5")
